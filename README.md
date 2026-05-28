@@ -79,4 +79,4 @@ StarkOS v1 — это прочный фундамент.
 · Предлагать новые пакеты или скрипты через Pull Requests.
 · Распространять ISO и рассказывать о StarkOS тем, кому нужна готовая Arch‑сборка без долгой настройки.
 
-Автор: StarkOS corporation (stark1970-linux)
+Автор: StarkOS corporation (Stark1970-linux)
